@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About this repository
+This repository contains the basis for most of my laravel-based projects.
+
+### Added Plugins / Modules 
+- UUID-Trait
+- spatie/laravel-permissions (with UUIDs)
+- updated ``vite.config.js``
+- Bootstrap 5
+- jQuery
+- jQuery Datatables
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
